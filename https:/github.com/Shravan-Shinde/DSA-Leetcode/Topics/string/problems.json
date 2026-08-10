@@ -4,8 +4,28 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-08-10T11:09:30.931Z",
+  "updatedAt": "2026-08-10T11:10:10.827Z",
   "problems": [
+    {
+      "frontendId": "443",
+      "title": "String Compression",
+      "slug": "string-compression",
+      "problemName": "0443-string-compression",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/string-compression/",
+      "folderPath": "https:/github.com/Shravan-Shinde/DSA-Leetcode/0443-string-compression/",
+      "readmePath": "https:/github.com/Shravan-Shinde/DSA-Leetcode/0443-string-compression/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0443-string-compression.java",
+          "path": "https:/github.com/Shravan-Shinde/DSA-Leetcode/0443-string-compression/0443-string-compression.java",
+          "sha": "09c7f18c1488700961318136c2d577e55a81b924",
+          "lastSyncedAt": "2026-08-10T11:10:10.827Z"
+        }
+      ]
+    },
     {
       "frontendId": "520",
       "title": "Detect Capital",
