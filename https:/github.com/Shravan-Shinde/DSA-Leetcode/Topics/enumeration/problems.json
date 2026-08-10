@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "enumeration",
+    "name": "Enumeration"
+  },
+  "updatedAt": "2026-08-10T11:09:41.054Z",
+  "problems": [
+    {
+      "frontendId": "1291",
+      "title": "Sequential Digits",
+      "slug": "sequential-digits",
+      "problemName": "1291-sequential-digits",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/sequential-digits/",
+      "folderPath": "https:/github.com/Shravan-Shinde/DSA-Leetcode/1291-sequential-digits/",
+      "readmePath": "https:/github.com/Shravan-Shinde/DSA-Leetcode/1291-sequential-digits/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1291-sequential-digits.java",
+          "path": "https:/github.com/Shravan-Shinde/DSA-Leetcode/1291-sequential-digits/1291-sequential-digits.java",
+          "sha": "b2bf7db6e0dda3ca206d7cd898e34ed5a4540667",
+          "lastSyncedAt": "2026-08-10T11:09:41.054Z"
+        }
+      ]
+    }
+  ]
+}
