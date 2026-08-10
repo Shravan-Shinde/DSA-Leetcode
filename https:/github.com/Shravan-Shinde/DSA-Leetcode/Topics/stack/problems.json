@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "stack",
+    "name": "Stack"
+  },
+  "updatedAt": "2026-08-10T11:09:48.148Z",
+  "problems": [
+    {
+      "frontendId": "581",
+      "title": "Shortest Unsorted Continuous Subarray",
+      "slug": "shortest-unsorted-continuous-subarray",
+      "problemName": "0581-shortest-unsorted-continuous-subarray",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/shortest-unsorted-continuous-subarray/",
+      "folderPath": "https:/github.com/Shravan-Shinde/DSA-Leetcode/0581-shortest-unsorted-continuous-subarray/",
+      "readmePath": "https:/github.com/Shravan-Shinde/DSA-Leetcode/0581-shortest-unsorted-continuous-subarray/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0581-shortest-unsorted-continuous-subarray.java",
+          "path": "https:/github.com/Shravan-Shinde/DSA-Leetcode/0581-shortest-unsorted-continuous-subarray/0581-shortest-unsorted-continuous-subarray.java",
+          "sha": "43f8ed886948808bd12e6d7e87cee64ca99a3013",
+          "lastSyncedAt": "2026-08-10T11:09:48.148Z"
+        }
+      ]
+    }
+  ]
+}
