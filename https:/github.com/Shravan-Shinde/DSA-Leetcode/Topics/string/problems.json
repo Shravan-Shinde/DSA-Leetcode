@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "string",
+    "name": "String"
+  },
+  "updatedAt": "2026-08-10T11:09:30.931Z",
+  "problems": [
+    {
+      "frontendId": "520",
+      "title": "Detect Capital",
+      "slug": "detect-capital",
+      "problemName": "0520-detect-capital",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/detect-capital/",
+      "folderPath": "https:/github.com/Shravan-Shinde/DSA-Leetcode/0520-detect-capital/",
+      "readmePath": "https:/github.com/Shravan-Shinde/DSA-Leetcode/0520-detect-capital/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0520-detect-capital.java",
+          "path": "https:/github.com/Shravan-Shinde/DSA-Leetcode/0520-detect-capital/0520-detect-capital.java",
+          "sha": "9092fa7b3c24d19951b59d0650af98d732edeca4",
+          "lastSyncedAt": "2026-08-10T11:09:30.931Z"
+        }
+      ]
+    }
+  ]
+}
