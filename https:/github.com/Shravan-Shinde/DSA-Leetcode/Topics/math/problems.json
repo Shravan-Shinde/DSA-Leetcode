@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "math",
+    "name": "Math"
+  },
+  "updatedAt": "2026-08-10T11:08:55.128Z",
+  "problems": [
+    {
+      "frontendId": "633",
+      "title": "Sum of Square Numbers",
+      "slug": "sum-of-square-numbers",
+      "problemName": "0633-sum-of-square-numbers",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/sum-of-square-numbers/",
+      "folderPath": "https:/github.com/Shravan-Shinde/DSA-Leetcode/0633-sum-of-square-numbers/",
+      "readmePath": "https:/github.com/Shravan-Shinde/DSA-Leetcode/0633-sum-of-square-numbers/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0633-sum-of-square-numbers.java",
+          "path": "https:/github.com/Shravan-Shinde/DSA-Leetcode/0633-sum-of-square-numbers/0633-sum-of-square-numbers.java",
+          "sha": "055303eeec55ad68c2999c25bb2c0a1167dccfc6",
+          "lastSyncedAt": "2026-08-10T11:08:55.128Z"
+        }
+      ]
+    }
+  ]
+}
